@@ -1,4 +1,4 @@
-# MiCM workshop on UNIX basics
+# Introduction to UNIX
 
 ## Overview
 This workshop is part of the Fall 2022 Workshop series of the [McGill initiative on Computational Medicine](https://www.mcgill.ca/micm/). The initiative was formed in 2017 and aims to deliver inter-disciplinary research programs and empower the use of data in health research and health care delivery.  
@@ -34,7 +34,8 @@ This workshop is aimed at people with little or no programming experience who wa
    - Pattern matching with grep
    - Pattern substitution with sed
    - Hands on 2 exercise
-4. UNIX Variables
+4.1 UNIX Variables
+4.2 HPC concepts
 
 
 ## Useful links
